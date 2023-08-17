@@ -3,7 +3,7 @@
 
 | Topic | URL |
 |---|---|
-| Intro | None |
+| Data Science Introduction | https://youtu.be/gqK_qOdHUl0 |
 | Data Pre-processing | https://youtu.be/-IcXBQi6SbA |
 | Hypotheses Testing with Linear Regression | https://youtu.be/aAqrkD49nwc |
 | Intro to Python - Extra Session | https://youtu.be/SEF28vxxddk |
